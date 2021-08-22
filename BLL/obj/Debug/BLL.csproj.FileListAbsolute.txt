@@ -1,0 +1,15 @@
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\BLL.dll.config
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\BLL.dll
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\BLL.pdb
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\DAL.dll
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\EntityFramework.dll
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\DAL.pdb
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\DAL.dll.config
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\EntityFramework.xml
+E:\PBL\OnTap\CuoiKi\BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\PBL\OnTap\CuoiKi\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\PBL\OnTap\CuoiKi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\PBL\OnTap\CuoiKi\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\PBL\OnTap\CuoiKi\BLL\obj\Debug\BLL.dll
+E:\PBL\OnTap\CuoiKi\BLL\obj\Debug\BLL.pdb
